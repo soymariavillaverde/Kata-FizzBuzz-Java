@@ -1,4 +1,6 @@
 # Kata FizzBuzz Java
+-------- This branch was created to be able to restart the exercise anytime -------
+
 
 ## Requiered
 - JDK 11
